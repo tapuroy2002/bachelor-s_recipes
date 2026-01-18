@@ -1,0 +1,127 @@
+
+[
+  {
+    "id": "2",
+    "title": "Chicken Caesar Salad",
+    "category": "Lunch",
+    "imageUrl": "assets/images/2.jpg",
+    "ingredients": [
+      "1 chicken breast",
+      "1 head of romaine lettuce",
+      "1/2 cup croutons",
+      "1/4 cup grated Parmesan cheese",
+      "Caesar dressing"
+    ],
+    "instructions": [
+      "Grill or pan-fry chicken breast until cooked through. Let it rest and then slice it.",
+      "Chop romaine lettuce and place in a large bowl.",
+      "Add chicken, croutons, and Parmesan cheese to the lettuce.",
+      "Drizzle with Caesar dressing and toss to combine.",
+      "Serve immediately."
+    ],
+    "duration": 25,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "5",
+    "title": "Quesadillas",
+    "category": "Lunch",
+    "imageUrl": "assets/images/5.jpg",
+    "ingredients": [
+      "2 large flour tortillas",
+      "1 cup shredded cheese (cheddar, Monterey Jack, etc.)",
+      "Optional fillings: cooked chicken, beans, sautéed vegetables"
+    ],
+    "instructions": [
+      "Heat a large skillet or griddle over medium heat.",
+      "Place one tortilla in the skillet and sprinkle with cheese and any other fillings.",
+      "Top with the second tortilla and cook for 2-3 minutes per side, until the cheese is melted and the tortillas are golden brown.",
+      "Cut into wedges and serve."
+    ],
+    "duration": 10,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "7",
+    "title": "Tomato Soup",
+    "category": "Lunch",
+    "imageUrl": "assets/images/7.jpg",
+    "ingredients": [
+      "1 can (28 ounces) crushed tomatoes",
+      "1 cup vegetable broth",
+      "1/2 cup heavy cream",
+      "1 small onion, chopped",
+      "2 cloves garlic, minced",
+      "1 tablespoon olive oil",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "In a large pot or Dutch oven, heat olive oil over medium heat. Add onion and cook until softened, about 5 minutes.",
+      "Add garlic and cook for 1 minute more.",
+      "Stir in crushed tomatoes and vegetable broth. Bring to a simmer and cook for 10 minutes.",
+      "Use an immersion blender to puree the soup until smooth. Stir in heavy cream and season with salt and pepper.",
+      "Serve hot."
+    ],
+    "duration": 25,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "8",
+    "title": "Grilled Cheese Sandwich",
+    "category": "Lunch",
+    "imageUrl": "assets/images/8.jpg",
+    "ingredients": [
+      "2 slices of bread",
+      "2 slices of cheese (cheddar, American, etc.)",
+      "1 tablespoon butter"
+    ],
+    "instructions": [
+      "Butter one side of each slice of bread.",
+      "Place one slice of bread, butter-side down, in a skillet over medium heat.",
+      "Top with cheese and the other slice of bread, butter-side up.",
+      "Grill for 2-3 minutes per side, until the bread is golden brown and the cheese is melted."
+    ],
+    "duration": 10,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "11",
+    "title": "Tuna Salad Sandwich",
+    "category": "Lunch",
+    "imageUrl": "assets/images/11.jpg",
+    "ingredients": [
+      "1 can (5 ounces) tuna, drained",
+      "1/4 cup mayonnaise",
+      "1 celery stalk, chopped",
+      "1 tablespoon chopped red onion",
+      "Salt and pepper to taste",
+      "4 slices of bread"
+    ],
+    "instructions": [
+      "In a small bowl, combine tuna, mayonnaise, celery, and red onion. Season with salt and pepper.",
+      "Serve on bread as a sandwich."
+    ],
+    "duration": 10,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "21",
+    "title": "BLT Sandwich",
+    "category": "Lunch",
+    "imageUrl": "assets/images/21.jpg",
+    "ingredients": [
+      "4 slices of bacon",
+      "2 slices of bread, toasted",
+      "2 leaves of lettuce",
+      "2 slices of tomato",
+      "2 tablespoons mayonnaise"
+    ],
+    "instructions": [
+      "Cook bacon in a skillet over medium-high heat until crisp. Drain on a paper towel-lined plate.",
+      "Spread mayonnaise on both slices of toast.",
+      "Layer lettuce, tomato, and bacon on one slice of toast. Top with the other slice of toast."
+    ],
+    "duration": 15,
+    "difficulty": "Easy"
+  }
+]

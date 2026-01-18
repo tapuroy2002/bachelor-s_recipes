@@ -1,0 +1,186 @@
+
+[
+  {
+    "id": "13",
+    "title": "Fruit Salad",
+    "category": "Desserts",
+    "imageUrl": "assets/images/13.jpg",
+    "ingredients": [
+      "1 cup strawberries, sliced",
+      "1 cup blueberries",
+      "1 cup grapes, halved",
+      "1 can (15 ounces) mandarin oranges, drained",
+      "1 banana, sliced"
+    ],
+    "instructions": [
+      "In a large bowl, combine all fruits.",
+      "Serve immediately."
+    ],
+    "duration": 10,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "14",
+    "title": "Brownies",
+    "category": "Desserts",
+    "imageUrl": "assets/images/14.jpg",
+    "ingredients": [
+      "1/2 cup butter, melted",
+      "1 cup white sugar",
+      "2 eggs",
+      "1 teaspoon vanilla extract",
+      "1/3 cup unsweetened cocoa powder",
+      "1/2 cup all-purpose flour",
+      "1/4 teaspoon salt",
+      "1/4 teaspoon baking powder"
+    ],
+    "instructions": [
+      "Preheat oven to 350°F (175°C). Grease and flour an 8-inch square pan.",
+      "In a large bowl, mix together the butter, sugar, and eggs. Stir in vanilla.",
+      "In a separate bowl, combine cocoa, flour, salt, and baking powder. Gradually add to the egg mixture until well blended.",
+      "Spread the batter into the prepared pan.",
+      "Bake for 25 to 30 minutes, or until a toothpick inserted into the center comes out with moist crumbs.",
+      "Cool in pan before cutting into squares."
+    ],
+    "duration": 40,
+    "difficulty": "Medium"
+  },
+  {
+    "id": "20",
+    "title": "Yogurt Parfait",
+    "category": "Desserts",
+    "imageUrl": "assets/images/20.jpg",
+    "ingredients": [
+      "1 cup plain or vanilla yogurt",
+      "1/2 cup granola",
+      "1/2 cup mixed berries"
+    ],
+    "instructions": [
+      "In a glass or jar, layer yogurt, granola, and berries. Repeat the layers until the glass is full.",
+      "Serve immediately."
+    ],
+    "duration": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "22",
+    "title": "Chocolate Chip Cookies",
+    "category": "Desserts",
+    "imageUrl": "assets/images/22.jpg",
+    "ingredients": [
+      "1 cup (2 sticks) butter, softened",
+      "3/4 cup white sugar",
+      "3/4 cup packed brown sugar",
+      "2 large eggs",
+      "2 teaspoons vanilla extract",
+      "2 1/4 cups all-purpose flour",
+      "1 teaspoon baking soda",
+      "1/2 teaspoon salt",
+      "2 cups semisweet chocolate chips"
+    ],
+    "instructions": [
+      "Preheat oven to 375°F (190°C).",
+      "In a large bowl, cream together the butter, white sugar, and brown sugar until smooth.",
+      "Beat in the eggs one at a time, then stir in the vanilla.",
+      "In a separate bowl, combine the flour, baking soda, and salt. Gradually add to the creamed mixture.",
+      "Stir in the chocolate chips.",
+      "Drop by rounded tablespoons onto ungreased baking sheets.",
+      "Bake for 9 to 11 minutes, or until golden brown.",
+      "Cool on baking sheets for a few minutes before transferring to wire racks to cool completely."
+    ],
+    "duration": 25,
+    "difficulty": "Medium"
+  },
+  {
+    "id": "36",
+    "title": "Apple Crumble",
+    "category": "Desserts",
+    "imageUrl": "assets/images/36.jpg",
+    "ingredients": [
+      "4 apples, peeled and sliced",
+      "1/2 cup all-purpose flour",
+      "1/2 cup brown sugar",
+      "1/2 cup rolled oats",
+      "1/2 cup butter, cubed"
+    ],
+    "instructions": [
+      "Preheat oven to 375°F (190°C).",
+      "Place apples in a baking dish.",
+      "In a small bowl, combine flour, brown sugar, and oats. Cut in butter until the mixture resembles coarse crumbs. Sprinkle over the apples.",
+      "Bake for 30-35 minutes, or until the topping is golden brown and the apples are tender."
+    ],
+    "duration": 45,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "37",
+    "title": "Cheesecake",
+    "category": "Desserts",
+    "imageUrl": "assets/images/37.jpg",
+    "ingredients": [
+      "1 1/2 cups graham cracker crumbs",
+      "1/4 cup melted butter",
+      "3 (8 ounce) packages cream cheese, softened",
+      "1 cup sugar",
+      "1 teaspoon vanilla extract",
+      "3 eggs"
+    ],
+    "instructions": [
+      "Preheat oven to 350°F (175°C).",
+      "In a small bowl, combine graham cracker crumbs and melted butter. Press into the bottom of a 9-inch springform pan.",
+      "In a large bowl, beat cream cheese, sugar, and vanilla until smooth. Beat in eggs one at a time.",
+      "Pour the filling into the crust.",
+      "Bake for 50-60 minutes, or until the center is almost set.",
+      "Let cool completely before refrigerating for at least 4 hours."
+    ],
+    "duration": 75,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "49",
+    "title": "Misti Doi",
+    "category": "Desserts",
+    "imageUrl": "assets/images/49.jpg",
+    "ingredients": [
+      "1 litre full-fat milk",
+      "1 cup sugar or date palm jaggery (nolen gur)",
+      "1/4 cup plain yogurt (for starter culture)"
+    ],
+    "instructions": [
+      "Hang the starter yogurt in a muslin cloth for an hour to drain excess water.",
+      "In a heavy-bottomed pan, boil the milk until it reduces to about half its original volume.",
+      "Caramelize the sugar in a separate pan until it turns a deep amber color. Carefully add this to the reduced milk and stir well. If using jaggery, melt it and mix it in.",
+      "Let the milk cool down until it is lukewarm.",
+      "Whisk the hung yogurt starter until smooth, then mix it thoroughly into the lukewarm milk.",
+      "Pour the mixture into an earthen pot (or any setting dish).",
+      "Cover and keep in a warm, dark place for 8-12 hours to set.",
+      "Once set, refrigerate for at least 4 hours before serving."
+    ],
+    "duration": 720,
+    "difficulty": "Medium"
+  },
+  {
+    "id": "59",
+    "title": "Sandesh",
+    "category": "Desserts",
+    "imageUrl": "assets/images/59.jpg",
+    "ingredients": [
+      "1 litre full-fat milk",
+      "2 tbsp lemon juice",
+      "1/2 cup powdered sugar",
+      "1/4 tsp cardamom powder",
+      "Pistachios or saffron for garnish"
+    ],
+    "instructions": [
+      "Bring the milk to a boil. Add lemon juice to curdle it. Once the whey separates, strain the curdled milk solids (chhena) through a muslin cloth.",
+      "Rinse the chhena under cold water and hang it for 30 minutes to drain excess water.",
+      "Knead the chhena on a flat surface for 8-10 minutes until it becomes smooth and non-greasy.",
+      "Add powdered sugar and cardamom powder. Knead for another 2 minutes.",
+      "Gently heat the mixture in a non-stick pan on low heat for 3-4 minutes, stirring continuously, until it comes together.",
+      "Let the mixture cool slightly. Shape into small balls or use molds.",
+      "Garnish with pistachios or saffron."
+    ],
+    "duration": 60,
+    "difficulty": "Medium"
+  }
+]

@@ -1,0 +1,486 @@
+
+[
+  {
+    "id": "43",
+    "title": "Shorshe Ilish",
+    "category": "Bangali",
+    "imageUrl": "assets/images/43.jpg",
+    "ingredients": [
+      "4 pieces Hilsa fish",
+      "1/2 cup mustard paste",
+      "2 green chilies",
+      "1/2 teaspoon turmeric powder",
+      "1/4 cup mustard oil",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Marinate the fish with turmeric powder and salt.",
+      "In a bowl, mix mustard paste, green chilies, mustard oil and salt.",
+      "Gently coat the fish pieces with the mustard paste mixture.",
+      "In a pan, heat the mustard oil and place the fish pieces.",
+      "Cook for 5-7 minutes on each side until the fish is cooked through and the mustard paste is fragrant.",
+      "Serve hot with steamed rice."
+    ],
+    "duration": 30,
+    "difficulty": "Medium"
+  },
+  {
+    "id": "44",
+    "title": "Kosha Mangsho",
+    "category": "Bangali",
+    "imageUrl": "assets/images/44.jpg",
+    "ingredients": [
+      "1 kg mutton, cut into pieces",
+      "2 large onions, thinly sliced",
+      "4 potatoes, halved",
+      "2 tbsp ginger paste",
+      "2 tbsp garlic paste",
+      "1 cup plain yogurt",
+      "4 green cardamoms",
+      "4 cloves",
+      "1 inch cinnamon stick",
+      "2 bay leaves",
+      "1 tsp turmeric powder",
+      "2 tsp red chili powder",
+      "1 tsp sugar",
+      "1/2 cup mustard oil",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Marinate mutton with yogurt, ginger-garlic paste, turmeric, and chili powder for at least 2 hours.",
+      "Heat mustard oil in a heavy-bottomed pan. Sauté the bay leaves, cinnamon, cardamom, and cloves.",
+      "Add sliced onions and fry until golden brown. Add sugar and caramelize.",
+      "Add the marinated mutton and potatoes. Cook on high heat for 10-15 minutes.",
+      "Lower the heat, cover, and let it slow-cook until the mutton is tender and the oil separates from the gravy. This can take over an hour.",
+      "Serve hot with luchi or rice."
+    ],
+    "duration": 120,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "45",
+    "title": "Chingri Malai Curry",
+    "category": "Bangali",
+    "imageUrl": "assets/images/45.jpg",
+    "ingredients": [
+      "500g large prawns, deveined",
+      "1 cup thick coconut milk",
+      "1 large onion, made into a paste",
+      "1 tbsp ginger-garlic paste",
+      "2 green chilies, slit",
+      "1/2 tsp turmeric powder",
+      "1/4 tsp garam masala powder",
+      "3 tbsp mustard oil",
+      "Salt and sugar to taste"
+    ],
+    "instructions": [
+      "Marinate the prawns with salt and turmeric.",
+      "Heat mustard oil and lightly fry the prawns until they turn pink. Set aside.",
+      "In the same oil, add the onion paste and sauté until the raw smell disappears.",
+      "Add ginger-garlic paste and green chilies. Fry for another minute.",
+      "Stir in the coconut milk, turmeric powder, salt, and a pinch of sugar. Bring to a gentle simmer.",
+      "Add the fried prawns and cook for 5-7 minutes until the gravy thickens.",
+      "Sprinkle with garam masala powder before serving.",
+      "Serve hot with steamed rice."
+    ],
+    "duration": 40,
+    "difficulty": "Medium"
+  },
+  {
+    "id": "46",
+    "title": "Aloo Posto",
+    "category": "Bangali",
+    "imageUrl": "assets/images/46.jpg",
+    "ingredients": [
+      "4 large potatoes, cubed",
+      "1/2 cup poppy seeds (posto), soaked and ground to a paste",
+      "2-3 green chilies",
+      "1/2 tsp nigella seeds (kalo jeera)",
+      "1/4 tsp turmeric powder",
+      "3 tbsp mustard oil",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Heat mustard oil in a pan and temper with nigella seeds and slit green chilies.",
+      "Add the potato cubes and sauté for 5-7 minutes until they are lightly browned.",
+      "Add the poppy seed paste, turmeric powder, and salt. Mix well.",
+      "Add half a cup of water, cover, and cook until the potatoes are tender and the gravy has thickened.",
+      "Drizzle with a little raw mustard oil before serving.",
+      "Best served with rice and dal."
+    ],
+    "duration": 30,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "47",
+    "title": "Dhokar Dalna",
+    "category": "Bangali",
+    "imageUrl": "assets/images/47.jpg",
+    "ingredients": [
+      "1 cup chana dal (Bengal gram), soaked",
+      "1 inch ginger, grated",
+      "2 green chilies",
+      "1/4 tsp asafoetida (hing)",
+      "2 potatoes, cubed",
+      "1 tomato, pureed",
+      "1 tsp cumin powder",
+      "1 tsp coriander powder",
+      "1/2 tsp turmeric powder",
+      "Oil for frying",
+      "Salt and sugar to taste"
+    ],
+    "instructions": [
+      "Grind the soaked chana dal with ginger and green chilies to a coarse paste. Add salt and hing.",
+      "Spread the paste on a greased plate and steam for 15 minutes. Let it cool and cut into diamond shapes (dhoka).",
+      "Lightly fry the dhokas until golden brown and set aside.",
+      "In a pan, heat oil and sauté the cubed potatoes. Add tomato puree and powdered spices.",
+      "Add water to make a gravy and bring to a boil. Add salt and sugar.",
+      "Gently slide in the fried dhokas and simmer for 5 minutes.",
+      "Garnish with ghee and garam masala."
+    ],
+    "duration": 60,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "48",
+    "title": "Luchi",
+    "category": "Bangali",
+    "imageUrl": "assets/images/48.jpg",
+    "ingredients": [
+      "2 cups all-purpose flour (maida)",
+      "2 tbsp ghee or oil",
+      "1/2 tsp salt",
+      "Warm water for kneading",
+      "Oil for deep frying"
+    ],
+    "instructions": [
+      "In a bowl, mix flour, salt, and ghee until it resembles breadcrumbs.",
+      "Gradually add warm water and knead into a soft, pliable dough.",
+      "Cover with a damp cloth and rest for 30 minutes.",
+      "Divide the dough into small, equal-sized balls.",
+      "Roll each ball into a thin circle (puri).",
+      "Heat oil in a deep pan. Slide a luchi into the hot oil and press gently with a spatula to help it puff up.",
+      "Fry until light golden, then flip and fry the other side.",
+      "Serve hot with Aloo'r Dom or Kosha Mangsho."
+    ],
+    "duration": 45,
+    "difficulty": "Medium"
+  },
+  {
+    "id": "50",
+    "title": "Shukto",
+    "category": "Bangali",
+    "imageUrl": "assets/images/50.jpg",
+    "ingredients": [
+      "1 bitter gourd (karela)",
+      "1 sweet potato",
+      "1 raw banana",
+      "1 drumstick, cut into pieces",
+      "1 potato",
+      "1/4 cup hyacinth beans (sheem)",
+      "1 tbsp poppy seed paste",
+      "1 tbsp mustard paste",
+      "1/2 cup milk",
+      "1 tsp radhuni (wild celery seeds)",
+      "1/2 tsp panch phoron",
+      "1 tbsp ghee",
+      "Salt and sugar to taste"
+    ],
+    "instructions": [
+      "Cut all vegetables into similar-sized pieces.",
+      "Fry the bitter gourd slices until crisp and set aside.",
+      "Heat ghee in a pan, temper with panch phoron and radhuni.",
+      "Add all vegetables (except bitter gourd) and sauté for a few minutes.",
+      "Add mustard paste, poppy seed paste, salt, and a pinch of sugar. Mix well.",
+      "Add water and cook until vegetables are tender.",
+      "Pour in the milk and bring to a simmer. Add the fried bitter gourd.",
+      "Cook for another 2 minutes and serve as the first course with rice."
+    ],
+    "duration": 40,
+    "difficulty": "Medium"
+  },
+  {
+    "id": "51",
+    "title": "Bhetki Macher Paturi",
+    "category": "Bangali",
+    "imageUrl": "assets/images/51.jpg",
+    "ingredients": [
+      "500g Bhetki (Barramundi) fillets",
+      "1/2 cup mustard paste",
+      "1/4 cup grated coconut",
+      "4 green chilies, slit",
+      "1 tsp turmeric powder",
+      "4 tbsp mustard oil",
+      "Banana leaves, cut into squares",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Make a paste of mustard, coconut, green chilies, turmeric, salt, and mustard oil.",
+      "Marinate the fish fillets in this paste for at least 30 minutes.",
+      "Lightly roast the banana leaves over an open flame to make them pliable.",
+      "Place a marinated fish fillet in the center of each banana leaf square. Fold the leaf to create a neat parcel and tie with a string.",
+      "Steam the parcels for 15-20 minutes or pan-fry on low heat until the fish is cooked through.",
+      "Serve hot by unwrapping the parcel at the table."
+    ],
+    "duration": 50,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "52",
+    "title": "Cholar Dal",
+    "category": "Bangali",
+    "imageUrl": "assets/images/52.jpg",
+    "ingredients": [
+      "1 cup chana dal (Bengal gram), soaked",
+      "1/4 cup coconut, thinly sliced or grated",
+      "1 bay leaf",
+      "2 dried red chilies",
+      "1 tsp cumin seeds",
+      "1/2 tsp turmeric powder",
+      "1 tbsp ginger paste",
+      "1 tbsp ghee",
+      "Sugar and salt to taste"
+    ],
+    "instructions": [
+      "Boil the soaked dal with turmeric and salt until soft but not mushy.",
+      "Heat ghee in a pan and fry the coconut slices until golden brown. Set aside.",
+      "In the same ghee, temper with bay leaf, dried red chilies, and cumin seeds.",
+      "Add ginger paste and sauté for a minute.",
+      "Pour the boiled dal into the pan. Add sugar and salt to balance the slightly sweet taste.",
+      "Simmer for 5-7 minutes. Add the fried coconut.",
+      "Serve hot with luchi or rice."
+    ],
+    "duration": 45,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "53",
+    "title": "Begun Bhaja",
+    "category": "Bangali",
+    "imageUrl": "assets/images/53.jpg",
+    "ingredients": [
+      "1 large eggplant (begun)",
+      "1/2 tsp turmeric powder",
+      "1/2 tsp red chili powder",
+      "1 tsp rice flour (optional, for crispiness)",
+      "Mustard oil for shallow frying",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Cut the eggplant into thick round slices.",
+      "Marinate the slices with salt, turmeric powder, and red chili powder. Add rice flour if using.",
+      "Let it rest for 10 minutes.",
+      "Heat mustard oil in a flat pan.",
+      "Shallow fry the eggplant slices on medium heat until they are golden brown and tender on both sides.",
+      "Drain on absorbent paper and serve as a side dish."
+    ],
+    "duration": 20,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "54",
+    "title": "Muri Ghonto",
+    "category": "Bangali",
+    "imageUrl": "assets/images/54.jpg",
+    "ingredients": [
+      "1 fish head (Rohu or Katla), cut into pieces",
+      "1 cup gobindobhog rice, soaked",
+      "1 large potato, cubed",
+      "1 onion, finely chopped",
+      "1 tbsp ginger-garlic paste",
+      "1 tomato, chopped",
+      "1 tsp cumin powder",
+      "1 tsp turmeric powder",
+      "1/2 tsp garam masala",
+      "Mustard oil for cooking",
+      "Salt and sugar to taste"
+    ],
+    "instructions": [
+      "Marinate the fish head pieces with salt and turmeric, then fry until golden brown and set aside.",
+      "In the same oil, fry the potato cubes until golden and set aside.",
+      "Temper the oil with bay leaf and whole spices. Add chopped onion and fry until translucent.",
+      "Add ginger-garlic paste and chopped tomato. Cook until the tomato softens.",
+      "Add the soaked rice and all powdered spices. Sauté for a few minutes.",
+      "Add the fried fish head and potatoes. Pour in 3-4 cups of hot water.",
+      "Cover and cook until the rice and potatoes are done. The consistency should be thick and mushy.",
+      "Finish with ghee and garam masala before serving."
+    ],
+    "duration": 50,
+    "difficulty": "Medium"
+  },
+  {
+    "id": "55",
+    "title": "Potoler Dolma",
+    "category": "Bangali",
+    "imageUrl": "assets/images/55.jpg",
+    "ingredients": [
+      "8-10 pointed gourds (potol)",
+      "250g minced meat (keema) or mashed paneer",
+      "1 onion, finely chopped",
+      "1 tbsp ginger-garlic paste",
+      "1 tsp turmeric powder",
+      "1 tsp red chili powder",
+      "1/2 cup yogurt, whisked",
+      "Oil for frying",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Lightly scrape the skin of the pointed gourds, slit one side, and scoop out the seeds.",
+      "Sauté chopped onion, ginger-garlic paste, and minced meat/paneer with spices until cooked. This is the filling.",
+      "Stuff the hollowed-out gourds with the filling.",
+      "In a pan, create a gravy with onion paste, ginger-garlic, yogurt, and spices.",
+      "Gently place the stuffed gourds into the gravy.",
+      "Cover and cook on low heat for 15-20 minutes, until the gourds are tender and the gravy has thickened.",
+      "Serve as a side dish."
+    ],
+    "duration": 60,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "56",
+    "title": "Kolkata Biryani",
+    "category": "Bangali",
+    "imageUrl": "assets/images/56.jpg",
+    "ingredients": [
+      "500g mutton or chicken",
+      "2 cups long-grain Basmati rice",
+      "4 large potatoes, peeled and halved",
+      "2 large onions, thinly sliced",
+      "1 cup yogurt",
+      "1 tbsp ginger-garlic paste",
+      "Saffron soaked in milk",
+      "Rose water and kewra water",
+      "Ghee and oil",
+      "Whole spices (cardamom, cloves, cinnamon)",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Marinate meat with yogurt, ginger-garlic paste, and powdered spices for 2 hours.",
+      "Fry the potato halves with a pinch of turmeric until golden and almost cooked. Set aside.",
+      "Fry the sliced onions until golden brown (beresta).",
+      "Cook the marinated meat until it's 80% done.",
+      "Parboil the rice with whole spices until it's 70% cooked.",
+      "In a heavy-bottomed pot, layer the cooked meat, potatoes, rice, fried onions, saffron milk, rose water, and ghee.",
+      "Seal the pot with a lid and cook on low heat ('dum') for 25-30 minutes.",
+      "Gently fluff the biryani before serving."
+    ],
+    "duration": 150,
+    "difficulty": "Hard"
+  },
+  {
+    "id": "57",
+    "title": "Doi Maach",
+    "category": "Bangali",
+    "imageUrl": "assets/images/57.jpg",
+    "ingredients": [
+      "4-5 pieces of Rohu or Katla fish",
+      "1 cup plain yogurt, whisked",
+      "1 onion paste",
+      "1 tsp ginger paste",
+      "1/2 tsp turmeric powder",
+      "3 green chilies",
+      "1/4 tsp garam masala",
+      "Mustard oil",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Lightly fry the fish pieces in mustard oil and set aside.",
+      "In the same oil, sauté the onion paste until the raw smell is gone.",
+      "Add ginger paste and turmeric powder. Cook for a minute.",
+      "Lower the heat and slowly add the whisked yogurt, stirring continuously to prevent curdling.",
+      "Add salt and a pinch of sugar. Add half a cup of warm water and bring to a simmer.",
+      "Gently add the fried fish pieces and slit green chilies.",
+      "Cover and cook for 7-10 minutes on low heat.",
+      "Sprinkle with garam masala before serving with rice."
+    ],
+    "duration": 35,
+    "difficulty": "Medium"
+  },
+  {
+    "id": "61",
+    "title": "Labra",
+    "category": "Bangali",
+    "imageUrl": "assets/images/61.jpg",
+    "ingredients": [
+      "2 cups mixed vegetables (pumpkin, potato, eggplant, radish, beans)",
+      "1 tbsp panch phoron",
+      "2 bay leaves",
+      "1 tbsp ginger paste",
+      "1 tsp turmeric powder",
+      "1 tsp cumin powder",
+      "1/2 cup grated coconut",
+      "Mustard oil",
+      "Salt and sugar to taste"
+    ],
+    "instructions": [
+      "Cut all vegetables into medium-sized chunks.",
+      "Heat mustard oil in a large pan. Temper with panch phoron and bay leaves.",
+      "Add the vegetables and sauté for 10-12 minutes until they are partially cooked.",
+      "Add ginger paste and all powdered spices. Mix well and cook for a few more minutes.",
+      "Add salt, a pinch of sugar, and a splash of water. Cover and cook until all vegetables are tender.",
+      "Stir in the grated coconut before turning off the heat.",
+      "Serve hot as a side dish, often during pujas and festivals."
+    ],
+    "duration": 40,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "62",
+    "title": "Chicken Rezala",
+    "category": "Bangali",
+    "imageUrl": "assets/images/62.jpg",
+    "ingredients": [
+      "750g chicken, cut into pieces",
+      "1 cup plain yogurt",
+      "1/2 cup cashew and poppy seed paste",
+      "2 large onions, made into a paste",
+      "1 tbsp garlic paste",
+      "1 tbsp ginger paste",
+      "2-3 dried red chilies",
+      "1 tsp white pepper powder",
+      "A few drops of kewra water",
+      "Ghee and vegetable oil"
+    ],
+    "instructions": [
+      "Marinate chicken with yogurt, onion paste, ginger-garlic paste, and salt for at least 1 hour.",
+      "Heat oil and ghee in a pan. Temper with dried red chilies and a bay leaf.",
+      "Add the marinated chicken and cook on high heat for 10 minutes.",
+      "Add the cashew-poppy seed paste and white pepper powder. Mix well.",
+      "Lower the heat, cover, and cook until the chicken is tender and the gravy is thick and white.",
+      "Add a few drops of kewra water at the end for fragrance.",
+      "Serve hot with naan or biryani."
+    ],
+    "duration": 55,
+    "difficulty": "Medium"
+  },
+  {
+    "id": "63",
+    "title": "Mochar Ghonto",
+    "category": "Bangali",
+    "imageUrl": "assets/images/63.jpg",
+    "ingredients": [
+      "1 banana flower (mocha), finely chopped",
+      "1 potato, cubed",
+      "1/2 cup grated coconut",
+      "1 tbsp ginger paste",
+      "1 tsp cumin powder",
+      "1/2 tsp turmeric powder",
+      "2 bay leaves",
+      "1 tsp cumin seeds",
+      "Ghee",
+      "Salt and sugar to taste"
+    ],
+    "instructions": [
+      "Boil the chopped banana flower with turmeric until tender. Drain and mash lightly.",
+      "Heat oil and fry the potato cubes until golden. Set aside.",
+      "In the same oil, temper with cumin seeds and bay leaves.",
+      "Add ginger paste and sauté. Add cumin powder and turmeric.",
+      "Add the boiled banana flower and fried potatoes. Cook for 5-7 minutes.",
+      "Stir in the grated coconut, salt, and sugar.",
+      "Finish with a spoonful of ghee and garam masala.",
+      "Serve with hot rice."
+    ],
+    "duration": 50,
+    "difficulty": "Medium"
+  }
+]

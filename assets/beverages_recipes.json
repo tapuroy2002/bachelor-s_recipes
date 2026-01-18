@@ -1,0 +1,453 @@
+
+[
+  {
+    "id": "60",
+    "title": "Aam Pora Shorbot",
+    "category": "Beverages",
+    "imageUrl": "assets/images/60.jpg",
+    "ingredients": [
+      "2 raw green mangoes",
+      "1/2 cup sugar or to taste",
+      "1 tsp roasted cumin powder",
+      "1/2 tsp black salt",
+      "Chilled water",
+      "Mint leaves for garnish"
+    ],
+    "instructions": [
+      "Roast the raw mangoes over an open flame or in an oven until the skin is charred and the pulp inside is soft.",
+      "Let the mangoes cool down completely. Peel off the charred skin and scoop out the pulp.",
+      "In a blender, combine the mango pulp, sugar, roasted cumin powder, and black salt.",
+      "Blend to a smooth paste.",
+      "To serve, add 2-3 tablespoons of this paste to a glass.",
+      "Top with chilled water and stir well.",
+      "Garnish with fresh mint leaves and serve immediately."
+    ],
+    "duration": 30,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "80",
+    "title": "Masala Chai",
+    "category": "Beverages",
+    "imageUrl": "assets/images/80.jpg",
+    "ingredients": [
+      "1 cup water",
+      "1 cup milk",
+      "2 tsp tea leaves",
+      "2 tbsp sugar",
+      "1 inch ginger, crushed",
+      "2 green cardamoms, crushed",
+      "1 small stick cinnamon",
+      "2 cloves"
+    ],
+    "instructions": [
+      "In a saucepan, add water, ginger, cardamom, cinnamon, and cloves.",
+      "Bring it to a boil.",
+      "Add tea leaves and let it simmer for a minute.",
+      "Add milk and sugar, and bring it to a boil.",
+      "Simmer for 2-3 minutes.",
+      "Strain the tea into cups and serve hot."
+    ],
+    "duration": 10,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "81",
+    "title": "Mango Lassi",
+    "category": "Beverages",
+    "imageUrl": "assets/images/81.jpg",
+    "ingredients": [
+      "1 cup ripe mango, chopped",
+      "1 cup plain yogurt",
+      "1/2 cup milk",
+      "4 tsp sugar",
+      "A pinch of cardamom powder"
+    ],
+    "instructions": [
+      "Add chopped mango, yogurt, milk, and sugar to a blender.",
+      "Blend until smooth.",
+      "Pour into glasses.",
+      "Garnish with a pinch of cardamom powder and serve chilled."
+    ],
+    "duration": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "82",
+    "title": "Cold Coffee",
+    "category": "Beverages",
+    "imageUrl": "assets/images/82.jpg",
+    "ingredients": [
+      "1 tbsp instant coffee powder",
+      "2 tbsp hot water",
+      "2 cups chilled milk",
+      "3 tbsp sugar",
+      "Few ice cubes",
+      "Chocolate sauce for garnish (optional)"
+    ],
+    "instructions": [
+      "In a small bowl, mix coffee powder and hot water until the coffee dissolves.",
+      "In a blender, combine the coffee mixture, chilled milk, sugar, and ice cubes.",
+      "Blend until frothy and smooth.",
+      "Drizzle chocolate sauce inside the serving glasses, if desired.",
+      "Pour the cold coffee into the glasses and serve immediately."
+    ],
+    "duration": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "64",
+    "title": "Nimbu Pani (Indian Lemonade)",
+    "category": "Beverages",
+    "imageUrl": "assets/images/64.jpg",
+    "ingredients": [
+      "1 large lemon",
+      "2 glasses of chilled water",
+      "4 tbsp sugar",
+      "1/2 tsp black salt",
+      "A pinch of roasted cumin powder",
+      "Mint leaves for garnish"
+    ],
+    "instructions": [
+      "Squeeze the juice from the lemon into a pitcher.",
+      "Add sugar, black salt, and roasted cumin powder.",
+      "Pour in the chilled water and stir well until the sugar dissolves.",
+      "Garnish with mint leaves and serve."
+    ],
+    "duration": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "65",
+    "title": "Jaljeera",
+    "category": "Beverages",
+    "imageUrl": "assets/images/65.jpg",
+    "ingredients": [
+      "1/2 cup mint leaves",
+      "1/4 cup coriander leaves",
+      "1 inch ginger",
+      "2 tbsp tamarind pulp",
+      "1 tsp roasted cumin powder",
+      "1/2 tsp black salt",
+      "1/4 tsp asafoetida (hing)",
+      "4 cups chilled water",
+      "Boondi for garnish"
+    ],
+    "instructions": [
+      "Blend mint leaves, coriander leaves, ginger, and tamarind pulp into a fine paste with a little water.",
+      "Strain the paste into a large pitcher.",
+      "Add cumin powder, black salt, and asafoetida.",
+      "Pour in the chilled water and mix everything well.",
+      "Garnish with boondi before serving."
+    ],
+    "duration": 15,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "66",
+    "title": "Thandai",
+    "category": "Beverages",
+    "imageUrl": "assets/images/66.jpg",
+    "ingredients": [
+      "1/4 cup almonds",
+      "2 tbsp poppy seeds (khus khus)",
+      "2 tbsp fennel seeds",
+      "1 tsp peppercorns",
+      "4 green cardamoms",
+      "1/4 cup sugar",
+      "4 cups chilled milk",
+      "Few saffron strands"
+    ],
+    "instructions": [
+      "Soak almonds, poppy seeds, fennel seeds, peppercorns, and cardamoms in water for at least 2 hours.",
+      "Drain the water and grind the soaked ingredients into a fine paste.",
+      "In a blender, combine the paste, sugar, and chilled milk.",
+      "Blend until smooth.",
+      "Strain the mixture through a fine sieve.",
+      "Garnish with saffron strands and serve chilled."
+    ],
+    "duration": 20,
+    "difficulty": "Medium"
+  },
+  {
+    "id": "67",
+    "title": "Sugarcane Juice",
+    "category": "Beverages",
+    "imageUrl": "assets/images/67.jpg",
+    "ingredients": [
+      "2 cups sugarcane juice, freshly extracted",
+      "1 tbsp lemon juice",
+      "1/2 inch ginger, crushed",
+      "A pinch of black salt",
+      "Mint leaves for garnish"
+    ],
+    "instructions": [
+      "If you have a sugarcane juicer, extract the juice.",
+      "Otherwise, this is best enjoyed fresh from a street vendor.",
+      "To the fresh juice, add lemon juice, crushed ginger, and black salt.",
+      "Stir well.",
+      "Garnish with mint leaves and serve immediately over ice."
+    ],
+    "duration": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "68",
+    "title": "Buttermilk (Chaas)",
+    "category": "Beverages",
+    "imageUrl": "assets/images/68.jpg",
+    "ingredients": [
+      "1 cup plain yogurt",
+      "2 cups cold water",
+      "1/2 tsp roasted cumin powder",
+      "1/2 tsp black salt",
+      "1 tbsp chopped coriander leaves"
+    ],
+    "instructions": [
+      "In a large bowl, whisk the yogurt until smooth.",
+      "Gradually add cold water and continue whisking.",
+      "Add roasted cumin powder and black salt. Mix well.",
+      "Garnish with chopped coriander leaves and serve chilled."
+    ],
+    "duration": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "69",
+    "title": "Badam Milk",
+    "category": "Beverages",
+    "imageUrl": "assets/images/69.jpg",
+    "ingredients": [
+      "1/4 cup almonds",
+      "3 cups milk",
+      "4 tbsp sugar",
+      "A pinch of saffron",
+      "1/4 tsp cardamom powder"
+    ],
+    "instructions": [
+      "Blanch and peel the almonds. Grind them to a fine paste with a little milk.",
+      "Boil the remaining milk in a saucepan.",
+      "Add the almond paste, sugar, and saffron. Stir well.",
+      "Simmer for 5-7 minutes, stirring occasionally.",
+      "Add cardamom powder and mix.",
+      "Serve hot or chilled."
+    ],
+    "duration": 20,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "70",
+    "title": "Rose Milk",
+    "category": "Beverages",
+    "imageUrl": "assets/images/70.jpg",
+    "ingredients": [
+      "2 cups chilled milk",
+      "3 tbsp rose syrup",
+      "1 tbsp sugar (optional)",
+      "A few drops of rose water"
+    ],
+    "instructions": [
+      "In a pitcher, combine chilled milk, rose syrup, sugar (if using), and rose water.",
+      "Stir well until everything is mixed.",
+      "Pour into glasses and serve immediately."
+    ],
+    "duration": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "71",
+    "title": "Watermelon Juice",
+    "category": "Beverages",
+    "imageUrl": "assets/images/71.jpg",
+    "ingredients": [
+      "3 cups chopped watermelon, deseeded",
+      "1 tbsp lemon juice",
+      "A pinch of black salt",
+      "Mint leaves for garnish"
+    ],
+    "instructions": [
+      "Place the chopped watermelon in a blender.",
+      "Blend until smooth.",
+      "Strain the juice through a sieve to remove any pulp.",
+      "Add lemon juice and black salt. Stir well.",
+      "Pour into glasses, garnish with mint leaves, and serve chilled."
+    ],
+    "duration": 10,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "72",
+    "title": "Ginger Tea",
+    "category": "Beverages",
+    "imageUrl": "assets/images/72.jpg",
+    "ingredients": [
+      "2 cups water",
+      "1 inch ginger, grated",
+      "1 tsp tea leaves or 1 tea bag",
+      "1 tbsp honey or sugar",
+      "1 tbsp lemon juice (optional)"
+    ],
+    "instructions": [
+      "In a saucepan, bring water and grated ginger to a boil.",
+      "Simmer for 5 minutes.",
+      "Add tea leaves/bag and steep for 2-3 minutes.",
+      "Strain the tea into a cup.",
+      "Stir in honey/sugar and lemon juice (if using).",
+      "Serve hot."
+    ],
+    "duration": 10,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "73",
+    "title": "Filter Coffee",
+    "category": "Beverages",
+    "imageUrl": "assets/images/73.jpg",
+    "ingredients": [
+      "3 tbsp filter coffee powder",
+      "1/2 cup hot water",
+      "1.5 cups milk",
+      "Sugar to taste"
+    ],
+    "instructions": [
+      "Add coffee powder to the upper chamber of a coffee filter.",
+      "Press it down lightly with the tamper.",
+      "Pour hot water over it and cover.",
+      "Let the coffee decoction drip into the lower chamber (takes 10-15 mins).",
+      "Boil the milk and froth it by pouring it back and forth between two tumblers.",
+      "In a tumbler, add 1/4 cup of the coffee decoction, sugar, and top with frothed milk.",
+      "Serve hot in a dabarah and tumbler."
+    ],
+    "duration": 20,
+    "difficulty": "Medium"
+  },
+  {
+    "id": "74",
+    "title": "Sweet Lassi",
+    "category": "Beverages",
+    "imageUrl": "assets/images/74.jpg",
+    "ingredients": [
+      "1.5 cups plain yogurt",
+      "1/2 cup milk or water",
+      "4 tbsp sugar",
+      "A pinch of cardamom powder",
+      "A few strands of saffron for garnish"
+    ],
+    "instructions": [
+      "In a blender, combine yogurt, milk/water, and sugar.",
+      "Blend until smooth and frothy.",
+      "Pour into glasses.",
+      "Garnish with cardamom powder and saffron strands.",
+      "Serve chilled."
+    ],
+    "duration": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "75",
+    "title": "Coconut Water with Mint",
+    "category": "Beverages",
+    "imageUrl": "assets/images/75.jpg",
+    "ingredients": [
+      "2 cups fresh coconut water",
+      "1 tbsp lemon juice",
+      "A handful of fresh mint leaves",
+      "A pinch of black salt"
+    ],
+    "instructions": [
+      "Lightly muddle the mint leaves in a pitcher.",
+      "Add coconut water, lemon juice, and black salt.",
+      "Stir well to combine the flavors.",
+      "Serve chilled, with a few mint leaves in each glass."
+    ],
+    "duration": 5,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "76",
+    "title": "Pineapple Juice",
+    "category": "Beverages",
+    "imageUrl": "assets/images/76.jpg",
+    "ingredients": [
+      "2 cups ripe pineapple chunks",
+      "1/2 cup water",
+      "1 tbsp sugar (optional)",
+      "A pinch of black salt"
+    ],
+    "instructions": [
+      "In a blender, combine pineapple chunks, water, and sugar (if using).",
+      "Blend until smooth.",
+      "Strain the juice through a fine-mesh sieve to remove the pulp.",
+      "Stir in the black salt.",
+      "Serve chilled."
+    ],
+    "duration": 10,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "77",
+    "title": "Orange Juice",
+    "category": "Beverages",
+    "imageUrl": "assets/images/77.jpg",
+    "ingredients": [
+      "4-5 large, sweet oranges",
+      "A pinch of black salt (optional)"
+    ],
+    "instructions": [
+      "Wash the oranges and cut them in half.",
+      "Use a juicer or a citrus squeezer to extract the juice.",
+      "For a smoother juice, you can strain it through a sieve.",
+      "Add a pinch of black salt if desired and stir.",
+      "Serve immediately."
+    ],
+    "duration": 10,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "78",
+    "title": "Mixed Fruit Juice",
+    "category": "Beverages",
+    "imageUrl": "assets/images/78.jpg",
+    "ingredients": [
+      "1 apple, chopped",
+      "1 orange, peeled and segmented",
+      "1/2 cup grapes",
+      "1/2 cup pineapple chunks",
+      "1/2 cup water",
+      "A pinch of black salt"
+    ],
+    "instructions": [
+      "Combine all the fruits in a blender.",
+      "Add water and blend until smooth.",
+      "Strain the juice through a sieve to separate the pulp.",
+      "Stir in the black salt.",
+      "Serve chilled."
+    ],
+    "duration": 10,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "79",
+    "title": "Hot Chocolate",
+    "category": "Beverages",
+    "imageUrl": "assets/images/79.jpg",
+    "ingredients": [
+      "2 cups milk",
+      "2 tbsp cocoa powder",
+      "2 tbsp sugar",
+      "1/4 tsp vanilla extract",
+      "A pinch of salt",
+      "Whipped cream or marshmallows for topping (optional)"
+    ],
+    "instructions": [
+      "In a saucepan, whisk together cocoa powder, sugar, and salt.",
+      "Gradually whisk in the milk until the mixture is smooth.",
+      "Heat over medium heat, stirring constantly, until hot. Do not boil.",
+      "Remove from heat and stir in the vanilla extract.",
+      "Pour into mugs and top with whipped cream or marshmallows if desired.",
+      "Serve immediately."
+    ],
+    "duration": 10,
+    "difficulty": "Easy"
+  }
+]

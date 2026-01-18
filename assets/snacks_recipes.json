@@ -1,0 +1,65 @@
+
+[
+  {
+    "id": "12",
+    "title": "Nachos",
+    "category": "Snacks",
+    "imageUrl": "assets/images/12.jpg",
+    "ingredients": [
+      "1 bag of tortilla chips",
+      "1 cup shredded cheese (cheddar, Monterey Jack, etc.)",
+      "Toppings: jalapeños, black olives, sour cream, salsa"
+    ],
+    "instructions": [
+      "Preheat oven to 350°F (175°C).",
+      "Spread tortilla chips on a baking sheet and top with cheese.",
+      "Bake for 5-7 minutes, or until the cheese is melted.",
+      "Top with your favorite toppings and serve."
+    ],
+    "duration": 15,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "19",
+    "title": "Hummus and Pita Bread",
+    "category": "Snacks",
+    "imageUrl": "assets/images/19.jpg",
+    "ingredients": [
+      "1 container of store-bought hummus",
+      "1 package of pita bread"
+    ],
+    "instructions": [
+      "Serve hummus with pita bread for dipping."
+    ],
+    "duration": 2,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "58",
+    "title": "Ghugni",
+    "category": "Snacks",
+    "imageUrl": "assets/images/58.jpg",
+    "ingredients": [
+      "2 cups dried yellow peas, soaked overnight",
+      "1 large onion, chopped",
+      "1 tomato, chopped",
+      "1 tbsp ginger-garlic paste",
+      "1 tsp cumin powder",
+      "1 tsp turmeric powder",
+      "Chopped coconut pieces (optional)",
+      "Tamarind chutney, chopped onions, and green chilies for garnish",
+      "Mustard oil"
+    ],
+    "instructions": [
+      "Boil the soaked peas with salt and turmeric until they are soft but hold their shape.",
+      "In a pan, heat mustard oil. Sauté chopped onions until golden.",
+      "Add ginger-garlic paste and chopped tomato. Cook until mushy.",
+      "Add all the powdered spices and sauté. Add coconut pieces if using.",
+      "Pour in the boiled peas along with the water. Mash some of the peas to thicken the gravy.",
+      "Simmer for 10-15 minutes.",
+      "Serve hot, garnished with a drizzle of tamarind chutney, raw chopped onions, and green chilies."
+    ],
+    "duration": 50,
+    "difficulty": "Easy"
+  }
+]

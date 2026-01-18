@@ -1,0 +1,401 @@
+
+[
+  {
+    "id": "1",
+    "title": "Spaghetti Carbonara",
+    "category": "Dinner",
+    "imageUrl": "assets/images/1.jpg",
+    "ingredients": [
+      "200g spaghetti",
+      "100g pancetta",
+      "2 large eggs",
+      "50g pecorino cheese",
+      "Salt and black pepper to taste"
+    ],
+    "instructions": [
+      "Cook spaghetti according to package directions.",
+      "While pasta is cooking, fry pancetta in a pan until crisp.",
+      "In a bowl, whisk eggs and cheese.",
+      "Drain pasta and add to the pan with pancetta. Toss to combine.",
+      "Remove from heat and stir in egg and cheese mixture. The heat from the pasta will cook the eggs.",
+      "Season with salt and pepper and serve immediately."
+    ],
+    "duration": 20,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "6",
+    "title": "Beef Tacos",
+    "category": "Dinner",
+    "imageUrl": "assets/images/6.jpg",
+    "ingredients": [
+      "1 lb ground beef",
+      "1 packet taco seasoning",
+      "1/2 cup water",
+      "8 taco shells",
+      "Toppings: shredded lettuce, diced tomatoes, shredded cheese, sour cream"
+    ],
+    "instructions": [
+      "In a large skillet, cook ground beef over medium-high heat until no longer pink. Drain off fat.",
+      "Stir in taco seasoning and water. Bring to a simmer and cook for 5 minutes, or until the sauce has thickened.",
+      "Warm taco shells according to package directions.",
+      "Fill shells with beef mixture and top with your favorite toppings."
+    ],
+    "duration": 20,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "15",
+    "title": "Mac and Cheese",
+    "category": "Dinner",
+    "imageUrl": "assets/images/15.jpg",
+    "ingredients": [
+      "8 ounces elbow macaroni",
+      "2 tablespoons butter",
+      "2 tablespoons all-purpose flour",
+      "1 1/2 cups milk",
+      "2 cups shredded cheddar cheese",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "Cook macaroni according to package directions. Drain.",
+      "In a large saucepan, melt butter over medium heat. Stir in flour to form a roux. Cook for 1 minute, stirring constantly.",
+      "Gradually whisk in milk. Bring to a simmer and cook for 2-3 minutes, or until the sauce has thickened.",
+      "Remove from heat and stir in cheese until melted. Season with salt and pepper.",
+      "Add cooked macaroni and stir to combine."
+    ],
+    "duration": 20,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "16",
+    "title": "Ramen Noodle Soup",
+    "category": "Dinner",
+    "imageUrl": "assets/images/16.jpg",
+    "ingredients": [
+      "1 package ramen noodles",
+      "2 cups chicken or vegetable broth",
+      "Optional add-ins: soft-boiled egg, sliced green onions, cooked chicken or tofu"
+    ],
+    "instructions": [
+      "In a small pot, bring broth to a boil.",
+      "Add ramen noodles and cook for 3 minutes, or until tender.",
+      "Stir in the seasoning packet that came with the noodles.",
+      "Pour into a bowl and top with your favorite add-ins."
+    ],
+    "duration": 10,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "18",
+    "title": "Chicken Noodle Soup",
+    "category": "Dinner",
+    "imageUrl": "assets/images/18.jpg",
+    "ingredients": [
+      "1 cooked chicken breast, shredded",
+      "4 cups chicken broth",
+      "1 cup egg noodles",
+      "1/2 cup chopped carrots",
+      "1/2 cup chopped celery",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "In a large pot, bring chicken broth to a boil.",
+      "Add carrots and celery and cook for 5 minutes, or until slightly tender.",
+      "Stir in egg noodles and cook for 6-8 minutes, or until tender.",
+      "Add shredded chicken and season with salt and pepper.",
+      "Serve hot."
+    ],
+    "duration": 20,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "24",
+    "title": "Baked Salmon",
+    "category": "Dinner",
+    "imageUrl": "assets/images/24.jpg",
+    "ingredients": [
+      "1 salmon fillet",
+      "1 tablespoon olive oil",
+      "1 lemon, sliced",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "Preheat oven to 400°F (200°C).",
+      "Place salmon on a baking sheet lined with foil.",
+      "Drizzle with olive oil and season with salt and pepper.",
+      "Top with lemon slices.",
+      "Bake for 12-15 minutes, or until the salmon is cooked through."
+    ],
+    "duration": 20,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "25",
+    "title": "Chicken Alfredo",
+    "category": "Dinner",
+    "imageUrl": "assets/images/25.jpg",
+    "ingredients": [
+      "8 ounces fettuccine",
+      "1 chicken breast, cut into bite-sized pieces",
+      "1 cup heavy cream",
+      "1/2 cup grated Parmesan cheese",
+      "2 cloves garlic, minced",
+      "2 tablespoons butter",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "Cook fettuccine according to package directions. Drain.",
+      "In a large skillet, melt butter over medium-high heat. Add chicken and cook until no longer pink.",
+      "Add garlic and cook for 1 minute more.",
+      "Stir in heavy cream and bring to a simmer. Cook for 2-3 minutes, or until the sauce has thickened.",
+      "Stir in Parmesan cheese and season with salt and pepper.",
+      "Add cooked fettuccine and toss to combine."
+    ],
+    "duration": 25,
+    "difficulty": "Medium"
+  },
+  {
+    "id": "26",
+    "title": "Beef Stir-Fry",
+    "category": "Dinner",
+    "imageUrl": "assets/images/26.jpg",
+    "ingredients": [
+      "1 lb beef sirloin, thinly sliced",
+      "1 cup broccoli florets",
+      "1 cup sliced bell peppers",
+      "1/2 cup sliced carrots",
+      "1/4 cup soy sauce",
+      "2 tablespoons honey",
+      "1 tablespoon cornstarch",
+      "1 tablespoon sesame oil"
+    ],
+    "instructions": [
+      "In a small bowl, whisk together soy sauce, honey, and cornstarch.",
+      "In a large skillet or wok, heat sesame oil over high heat.",
+      "Add beef and cook until browned. Remove from skillet.",
+      "Add vegetables to the skillet and cook for 5-7 minutes, or until tender-crisp.",
+      "Return beef to the skillet and stir in the soy sauce mixture.",
+      "Cook for 1-2 minutes, or until the sauce has thickened.",
+      "Serve over rice."
+    ],
+    "duration": 20,
+    "difficulty": "Medium"
+  },
+  {
+    "id": "27",
+    "title": "Vegetable Curry",
+    "category": "Dinner",
+    "imageUrl": "assets/images/27.jpg",
+    "ingredients": [
+      "1 can (13.5 ounces) coconut milk",
+      "1/4 cup curry paste",
+      "2 cups mixed vegetables (e.g., potatoes, carrots, peas, green beans)",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "1 tablespoon olive oil"
+    ],
+    "instructions": [
+      "In a large pot or Dutch oven, heat olive oil over medium heat. Add onion and cook until softened, about 5 minutes.",
+      "Add garlic and cook for 1 minute more.",
+      "Stir in curry paste and cook for 1 minute, until fragrant.",
+      "Stir in coconut milk and bring to a simmer.",
+      "Add vegetables and cook for 15-20 minutes, or until tender.",
+      "Serve over rice."
+    ],
+    "duration": 30,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "28",
+    "title": "Lentil Soup",
+    "category": "Dinner",
+    "imageUrl": "assets/images/28.jpg",
+    "ingredients": [
+      "1 cup brown or green lentils, rinsed",
+      "6 cups vegetable broth",
+      "1 onion, chopped",
+      "2 carrots, chopped",
+      "2 celery stalks, chopped",
+      "2 cloves garlic, minced",
+      "1 teaspoon dried thyme",
+      "1 tablespoon olive oil",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "In a large pot or Dutch oven, heat olive oil over medium heat. Add onion, carrots, and celery and cook until softened, about 10 minutes.",
+      "Add garlic and cook for 1 minute more.",
+      "Stir in lentils, vegetable broth, and thyme. Bring to a boil, then reduce heat and simmer for 45-60 minutes, or until the lentils are tender.",
+      "Season with salt and pepper to taste."
+    ],
+    "duration": 70,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "29",
+    "title": "Chicken Parmesan",
+    "category": "Dinner",
+    "imageUrl": "assets/images/29.jpg",
+    "ingredients": [
+      "2 boneless, skinless chicken breasts",
+      "1/2 cup breadcrumbs",
+      "1/4 cup grated Parmesan cheese",
+      "1 egg, beaten",
+      "1 cup marinara sauce",
+      "1/2 cup shredded mozzarella cheese"
+    ],
+    "instructions": [
+      "Preheat oven to 400°F (200°C).",
+      "In a shallow dish, combine breadcrumbs and Parmesan cheese.",
+      "Dip each chicken breast in the beaten egg, then dredge in the breadcrumb mixture.",
+      "Place chicken in a baking dish and top with marinara sauce and mozzarella cheese.",
+      "Bake for 20-25 minutes, or until the chicken is cooked through and the cheese is bubbly."
+    ],
+    "duration": 30,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "30",
+    "title": "Shepherd's Pie",
+    "category": "Dinner",
+    "imageUrl": "assets/images/30.jpg",
+    "ingredients": [
+      "1 lb ground lamb or beef",
+      "1 onion, chopped",
+      "2 carrots, chopped",
+      "1 cup frozen peas",
+      "1 cup beef broth",
+      "1 tablespoon Worcestershire sauce",
+      "4 cups mashed potatoes"
+    ],
+    "instructions": [
+      "Preheat oven to 400°F (200°C).",
+      "In a large skillet, cook ground meat and onion over medium-high heat until the meat is browned. Drain off fat.",
+      "Stir in carrots, peas, beef broth, and Worcestershire sauce. Bring to a simmer and cook for 5 minutes.",
+      "Pour the meat mixture into a baking dish.",
+      "Top with mashed potatoes.",
+      "Bake for 20-25 minutes, or until the potatoes are golden brown."
+    ],
+    "duration": 45,
+    "difficulty": "Medium"
+  },
+  {
+    "id": "31",
+    "title": "Meatloaf",
+    "category": "Dinner",
+    "imageUrl": "assets/images/31.jpg",
+    "ingredients": [
+      "1 1/2 lbs ground beef",
+      "1 egg",
+      "1 onion, chopped",
+      "1 cup milk",
+      "1 cup dried breadcrumbs",
+      "1/4 cup ketchup",
+      "2 tablespoons brown sugar"
+    ],
+    "instructions": [
+      "Preheat oven to 350°F (175°C).",
+      "In a large bowl, combine beef, egg, onion, milk, and breadcrumbs. Shape into a loaf and place in a baking dish.",
+      "In a small bowl, combine ketchup and brown sugar. Spread over the meatloaf.",
+      "Bake for 1 hour, or until cooked through."
+    ],
+    "duration": 75,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "32",
+    "title": "Chili",
+    "category": "Dinner",
+    "imageUrl": "assets/images/32.jpg",
+    "ingredients": [
+      "1 lb ground beef",
+      "1 onion, chopped",
+      "2 cloves garlic, minced",
+      "1 can (15 ounces) kidney beans, rinsed and drained",
+      "1 can (15 ounces) diced tomatoes",
+      "1 can (8 ounces) tomato sauce",
+      "2 tablespoons chili powder"
+    ],
+    "instructions": [
+      "In a large pot or Dutch oven, cook ground beef and onion over medium-high heat until the beef is browned. Drain off fat.",
+      "Add garlic and cook for 1 minute more.",
+      "Stir in kidney beans, diced tomatoes, tomato sauce, and chili powder.",
+      "Bring to a simmer and cook for at least 30 minutes, or up to several hours."
+    ],
+    "duration": 45,
+    "difficulty": "Easy"
+  },
+  {
+    "id": "33",
+    "title": "Pot Roast",
+    "category": "Dinner",
+    "imageUrl": "assets/images/33.jpg",
+    "ingredients": [
+      "3 lb beef chuck roast",
+      "1 onion, chopped",
+      "2 carrots, chopped",
+      "2 celery stalks, chopped",
+      "1 cup beef broth",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "Season roast with salt and pepper.",
+      "In a large pot or Dutch oven, brown the roast on all sides over medium-high heat.",
+      "Add onion, carrots, celery, and beef broth. Bring to a simmer.",
+      "Reduce heat to low, cover, and cook for 3-4 hours, or until the roast is tender."
+    ],
+    "duration": 240,
+    "difficulty": "Medium"
+  },
+  {
+    "id": "34",
+    "title": "Lasagna",
+    "category": "Dinner",
+    "imageUrl": "assets/images/34.jpg",
+    "ingredients": [
+      "9 lasagna noodles",
+      "1 lb ground beef",
+      "1 jar (24 ounces) pasta sauce",
+      "15 ounces ricotta cheese",
+      "1 egg, beaten",
+      "1/2 cup grated Parmesan cheese",
+      "2 cups shredded mozzarella cheese"
+    ],
+    "instructions": [
+      "Preheat oven to 375°F (190°C).",
+      "Cook lasagna noodles according to package directions. Drain.",
+      "In a large skillet, cook ground beef over medium-high heat until browned. Drain off fat. Stir in pasta sauce.",
+      "In a small bowl, combine ricotta cheese, egg, and Parmesan cheese.",
+      "To assemble, spread a thin layer of meat sauce in a baking dish. Layer with noodles, ricotta mixture, and mozzarella cheese. Repeat layers. Top with remaining meat sauce and mozzarella cheese.",
+      "Bake for 30-40 minutes, or until bubbly."
+    ],
+    "duration": 60,
+    "difficulty": "Medium"
+  },
+  {
+    "id": "35",
+    "title": "Fish and Chips",
+    "category": "Dinner",
+    "imageUrl": "assets/images/35.jpg",
+    "ingredients": [
+      "1 lb cod fillets, cut into 4 pieces",
+      "1 cup all-purpose flour",
+      "1 teaspoon baking powder",
+      "1 teaspoon salt",
+      "1 egg, beaten",
+      "1 cup beer",
+      "4 potatoes, cut into fries",
+      "Oil for frying"
+    ],
+    "instructions": [
+      "In a large pot or deep fryer, heat oil to 375°F (190°C).",
+      "Fry potatoes until golden brown. Drain on a paper towel-lined plate.",
+      "In a shallow dish, combine flour, baking powder, and salt. In another shallow dish, place the beaten egg. In a third shallow dish, pour the beer.",
+      "Dredge each fish fillet in flour, then dip in the egg, then in the beer.",
+      "Fry fish for 4-5 minutes per side, or until golden brown and cooked through.",
+      "Serve with fries."
+    ],
+    "duration": 30,
+    "difficulty": "Hard"
+  }
+]
